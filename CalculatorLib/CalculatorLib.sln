@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLib", "CalculatorLib.csproj", "{274D8572-7F0D-49BB-9584-BE47B2C3DD04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "..\Calc\Calc.csproj", "{B99B4302-3DC8-4CED-8BD9-7DD79576258F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTest", "..\CalculatorTest\CalculatorTest.csproj", "{A643B1BE-4C66-4812-AD99-EA225587DD2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{274D8572-7F0D-49BB-9584-BE47B2C3DD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274D8572-7F0D-49BB-9584-BE47B2C3DD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274D8572-7F0D-49BB-9584-BE47B2C3DD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274D8572-7F0D-49BB-9584-BE47B2C3DD04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B99B4302-3DC8-4CED-8BD9-7DD79576258F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99B4302-3DC8-4CED-8BD9-7DD79576258F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99B4302-3DC8-4CED-8BD9-7DD79576258F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99B4302-3DC8-4CED-8BD9-7DD79576258F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A643B1BE-4C66-4812-AD99-EA225587DD2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A643B1BE-4C66-4812-AD99-EA225587DD2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A643B1BE-4C66-4812-AD99-EA225587DD2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A643B1BE-4C66-4812-AD99-EA225587DD2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4067486-25D3-491A-9ED7-7425FCB83888}
+	EndGlobalSection
+EndGlobal

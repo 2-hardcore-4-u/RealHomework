@@ -1,0 +1,9 @@
+D:\projects\c#\forhomework\TestForTests\Calc\bin\Debug\Calc.exe.config
+D:\projects\c#\forhomework\TestForTests\Calc\bin\Debug\Calc.exe
+D:\projects\c#\forhomework\TestForTests\Calc\bin\Debug\Calc.pdb
+D:\projects\c#\forhomework\TestForTests\Calc\bin\Debug\CalculatorLib.dll
+D:\projects\c#\forhomework\TestForTests\Calc\bin\Debug\CalculatorLib.pdb
+D:\projects\c#\forhomework\TestForTests\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+D:\projects\c#\forhomework\TestForTests\Calc\obj\Debug\Calc.csproj.CopyComplete
+D:\projects\c#\forhomework\TestForTests\Calc\obj\Debug\Calc.exe
+D:\projects\c#\forhomework\TestForTests\Calc\obj\Debug\Calc.pdb
